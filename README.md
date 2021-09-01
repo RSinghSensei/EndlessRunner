@@ -1,6 +1,6 @@
 # EndlessRunner
-Game created using pygame
 
+Pygame required to play the game
 
 An endless runner, inspired from the chrome dino game, with a little more action and stages implemented. 
 
